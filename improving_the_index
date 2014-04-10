@@ -1,0 +1,18 @@
+# Lesson 4: Problem Set: Improving the Index
+
+# Need to check that the URL isn't already in the array of URLs for that keyword.
+
+# Add an If statement to check.
+
+
+def add_to_index(index, keyword, url):
+    for entry in index:
+        if entry[0] == keyword:
+            if url in entry[1]:
+                return
+            else:
+                entry[1].append(url)
+            return
+    # not found, add new keyword to index
+    index.append([keyword, [url]])
+
