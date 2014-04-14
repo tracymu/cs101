@@ -5,7 +5,7 @@
 # ONLY use concepts covered in the class so far
 # Do NOT give solutions here - ONLY hints
 
-#work out how many hours are in a day
-#times that by the number of days in a week
-#then times by the number of weeks
-#use print to show the answer 
+# work out how many hours are in a day
+# times that by the number of days in a week
+# then times by the number of weeks
+# use print to show the answer 
