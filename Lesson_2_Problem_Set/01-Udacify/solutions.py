@@ -5,3 +5,10 @@
 # ALL solutions must be clearly documented
 # ALL solutions must actually work
 # ONLY use concepts covered in the class so far
+
+
+
+def udacify(string):
+    return 'U' + string
+
+
