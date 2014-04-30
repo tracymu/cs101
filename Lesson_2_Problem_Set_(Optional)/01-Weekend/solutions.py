@@ -5,7 +5,7 @@ def weekend(day):
 
 
 # Another method
-def weekend(day)
+def weekend(day):
     if (day) == 'Saturday':
         return True
     if (day) == 'Sunday':
