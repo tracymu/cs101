@@ -5,3 +5,8 @@
 # ALL solutions must be clearly documented
 # ALL solutions must actually work
 # ONLY use concepts covered in the class so far
+
+def cached_execution(cache, proc, proc_input):
+    if not proc_input in cache:
+        cache[proc_input] = proc(proc_input)
+    return cache[proc_input]
