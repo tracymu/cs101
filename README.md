@@ -35,4 +35,4 @@ Bummer! We're working on getting more materials here, but we currently don't hav
 7. We're not too fussed about exercises that have videos up on the site - if you want to supply hints/solutions, great! But we're more interested in the "optional" exercises that don't have any solutions supplied.
 
 ## Thank you
-Thanks everyone who has contributed so far!
+Thanks everyone who has contributed so far! Especially: tracymu, DesPenny, catherine-jones, nadiavu, colinjohnstonau
