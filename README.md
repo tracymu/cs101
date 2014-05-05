@@ -37,6 +37,7 @@ please help us by contributing back!
 6. Make any requested changes, and then I'll take it from there!
 
 ### Notes for contributers:
+
 1. We do NOT accept pull requests that have deleted another contributer's hint
    or solution without a very clear reason (such as "it doesn't actually pass
    the tests on Udacity").
@@ -56,5 +57,11 @@ please help us by contributing back!
    "optional" exercises that don't have any solutions supplied.
 
 ## Thank you
-Thanks everyone who has contributed so far! Especially: tracymu, DesPenny, catherine-jones, nadiavu, colinjohnstonau
 
+Thanks everyone who has contributed so far! Especially but not limited to:
+
+* tracymu
+* DesPenny
+* catherine-jones
+* nadiavu
+* colinjohnstonau
