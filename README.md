@@ -58,12 +58,4 @@ please help us by contributing back!
 
 ## Thank you
 
-Thanks everyone who has contributed so far! Especially but not limited to:
-
-* tracymu
-* DesPenny
-* catherine-jones
-* nadiavu
-* colinjohnstonau
-* puyo
-
+Thanks everyone who has contributed so far!
